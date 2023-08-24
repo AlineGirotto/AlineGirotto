@@ -16,6 +16,7 @@
 - Graduação em Análise e Desenvolvimento de Software pelo IFRS-Sertão
 - Projeto de Extenção: <a href="https://feiravirtual.erechim.ifrs.edu.br/">Feira Virtual</a>
 - Projeto de pesquisa: <a href="http://tour.sertao.ifrs.edu.br/">TourIFRS</a>
+
 <p align="center">
 <div>
 <a href="https://github.com/AlineGirotto/AlineGirotto">
