@@ -17,10 +17,9 @@
 - Projeto de Extenção: <a href="https://feiravirtual.erechim.ifrs.edu.br/">Feira Virtual</a>
 - Projeto de pesquisa: <a href="http://tour.sertao.ifrs.edu.br/">TourIFRS</a>
 
+##
 <p align="center">
-<div>
-<a href="https://github.com/AlineGirotto/AlineGirotto">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineGirotto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<a href="https://github.com/AlineGirotto">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlineGirotto&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
