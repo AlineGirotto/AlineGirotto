@@ -1,7 +1,7 @@
 # Aline Girotto
 
 ## Olá, seja bem-vindo(a)!
- Me chamo Aline Girotto, tenho 21 anos e atualmente moro no Erechim/RS, adoro games(mesmo não sendo tão boa), música, esportes e praia.
+ Me chamo Aline Girotto, tenho 21 anos e atualmente moro no Erechim/RS, adoro games (mesmo não sendo tão boa), música, esportes e praia.
 
 ### Afinidades e tecnologias já utilizadas:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
