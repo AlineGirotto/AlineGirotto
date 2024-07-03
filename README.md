@@ -20,6 +20,6 @@
 ##
 <p align="center">
 <a href="https://github.com/AlineGirotto">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlineGirotto&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlineGirotto&layout=compact&langs_count=8&theme=vision-friendly-dark"/> 
 </a>
 </p>
